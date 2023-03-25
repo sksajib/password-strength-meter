@@ -1,5 +1,5 @@
 import React from "react";
-class StregthCriteria extends React.Component{
+class StrengthCriteria extends React.Component{
     render(){
         return(
             <div>
@@ -12,4 +12,4 @@ class StregthCriteria extends React.Component{
         );
     };
 }
-export default StregthCriteria;
+export default StrengthCriteria;
